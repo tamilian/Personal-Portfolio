@@ -22,12 +22,11 @@
       "enable_section": true
     },
     "main_header": "Hello, Harsh here.",
-    "main_subtitle": "I like to build stuff occasionally.",
+    "main_subtitle": "I'm passionate about bringing ideas to life.",
     "intro_bio": [
-      "I'm currently a Freshman at the University of Houston,",
-      "pursuing a Bachelor of Science in Computer Science.",
-      "I have a profound interest in machine learning, operating",
-      "systems, full-stack development, and everything in between."
+      "I'm currently a Junior at Texas A&M University.",
+      "Pursuing a B.S. in Electrical Engineering w/ a minor in Computer Science.",
+      "I'm passionate about robotics, electronics, deep learning and autonomous systems!"
     ],
     "email_button": "Say hello to me!"
   },
