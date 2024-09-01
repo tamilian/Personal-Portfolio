@@ -21,12 +21,12 @@
     "section": {
       "enable_section": true
     },
-    "main_header": "Hello, Harsh here.",
+    "main_header": "Howdy, I'm Harsh!",
     "main_subtitle": "I'm passionate about bringing ideas to life.",
     "intro_bio": [
       "I'm currently a Junior at Texas A&M University.",
       "Pursuing a B.S. in Electrical Engineering w/ a minor in Computer Science.",
-      "I'm passionate about robotics, electronics, deep learning and autonomous systems!"
+      "I'm passionate about electronics, automation, robotics specifically autonomous systems!"
     ],
     "email_button": "Say hello to me!"
   },
@@ -44,7 +44,7 @@
     ],
     "skills_caption": "Some technologies I've been worked with:",
     "skills": [
-      "JavaScript ES6+",
+      "PLC",
       "React.js & Node.js",
       "Python 3.x",
       "HTML & CSS",
