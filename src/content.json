@@ -26,7 +26,7 @@
     "intro_bio": [
       "I'm currently a Junior at Texas A&M University.",
       "Pursuing a B.S. in Electrical Engineering w/ a minor in Computer Science.",
-      "I'm passionate about electronics, automation, robotics specifically autonomous systems!"
+      "I'm passionate about electronics, automation, robotics, specifically autonomous systems!"
     ],
     "email_button": "Say hello to me!"
   },
@@ -39,16 +39,16 @@
     },
     "headShotUrl": "../assets/portrait.jpg",
     "bio": [
-      "I am currently an undergraduate student at the University of Houston pursuing a Bachelor of Science in Computer Science. I recently completed an internship at the McNair Research Program at STMU, where I conducted research on high-level to low-level language translation under the guidance of my mentor, Arthur Hanna, Ph.D. Some of my curent goals include gaining practical experience and cultivating valuable connections that will contribute to my personal and professional growth.",
-      "I have a profound interest in various types of software development, including machine learning, operating systems, and full-stack development. I'm a huge enthusiast of desk setups and PCs. In my free time, I enjoy playing and analyzing chess games, thrifting, playing video games, strumming my guitar, and trying local foods."
+      "I am currently an undergraduate student at Texas A&M University pursuing a Bachelor of Science in Electrical Engineering with a minor in Computer Science. My work spans across electronics, automation, and robotics, with a focus on autonomous systems and deep learning.",
+      "I have a profound interest in various types of technologies, including machine learning, robotics, and PCB design. I'm a huge enthusiast of practical, hands-on projects. In my free time, I enjoy leading my robotics club, exploring new technologies, playing chess, and working on personal projects that combine my love for electronics and programming."
     ],
-    "skills_caption": "Some technologies I've been worked with:",
+    "skills_caption": "Some technologies I've worked with:",
     "skills": [
-      "PLC (Rockwell Automation & )",
-      "React.js & Node.js",
-      "Python 3.x",
-      "HTML & CSS",
-      "MongoDB & MySQL",
+      "PLC Programming (Rockwell Automation)",
+      "Machine/Deep Learning",
+      "Robotics/Automation",
+      "PCB Design",
+      "Algorithm Development",
       "Linux & Windows OS"
     ]
   },
@@ -60,8 +60,8 @@
       "description": "Courses that I have completed or am on track to complete. Current GPA: 3.24"
     },
     "general": {
-      "school": "St. Mary's University",
-      "degree": "Bachelor of Science in Computer Science",
+      "school": "Texas A&M University",
+      "degree": "Bachelor of Science in Electrical Engineering",
       "start_year": 2021,
       "end_year": 2025
     },
@@ -71,23 +71,23 @@
         "semester": "Fall",
         "courses": [
           {
-            "abbreviation": "CS 1310",
-            "name": "C Programming I",
-            "credits": 3.0
+            "abbreviation": "ENGR 111",
+            "name": "Foundations of Engineering",
+            "credits": 2.0
           },
           {
-            "abbreviation": "MT 1411",
-            "name": "Pre Calculus",
+            "abbreviation": "MATH 151",
+            "name": "Engineering Mathematics I",
             "credits": 4.0
           },
           {
-            "abbreviation": "EN 1311",
-            "name": "Rhetoric and Composition",
-            "credits": 3.0
+            "abbreviation": "PHYS 218",
+            "name": "Mechanics",
+            "credits": 4.0
           },
           {
-            "abbreviation": "PL 1301",
-            "name": "Introduction to Philosophy",
+            "abbreviation": "CHEM 107",
+            "name": "General Chemistry for Engineers",
             "credits": 3.0
           }
         ]
@@ -97,95 +97,49 @@
         "semester": "Spring",
         "courses": [
           {
-            "abbreviation": "CS102",
-            "name": "C Programming II",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 3300",
-            "name": "Intro to Data Analytics Python Programming I",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2412",
-            "name": "Calculus I",
+            "abbreviation": "MATH 152",
+            "name": "Engineering Mathematics II",
             "credits": 4.0
           },
           {
-            "abbreviation": "FYE 1301",
-            "name": "First Year Seminar",
-            "credits": 3.0
+            "abbreviation": "PHYS 208",
+            "name": "Electricity and Optics",
+            "credits": 4.0
           },
           {
-            "abbreviation": "MT 2412",
-            "name": "Multicultural American Lit",
-            "credits": 3.0
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "semester": "Fall",
-        "courses": [
-          {
-            "abbreviation": "CS 2315",
-            "name": "Algorithms and Data Structure",
-            "credits": 3.0
+            "abbreviation": "CSCE 121",
+            "name": "Introduction to Programming",
+            "credits": 4.0
           },
           {
-            "abbreviation": "CS 2313",
-            "name": "Object Oriented Programming I",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 2110",
-            "name": "Sophomore CS Seminar",
-            "credits": 1.0
-          },
-          {
-            "abbreviation": "CM 1341",
-            "name": "Intro to Human Communication",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "AR 1300",
-            "name": "Concepts in Visual Arts",
-            "credits": 3.0
+            "abbreviation": "ENGR 112",
+            "name": "Foundations of Engineering II",
+            "credits": 2.0
           }
         ]
       },
       {
         "year": 2023,
-        "semester": "Spring",
+        "semester": "Fall",
         "courses": [
           {
-            "abbreviation": "CS 2350",
-            "name": "Computer Architecture",
+            "abbreviation": "ECEN 214",
+            "name": "Electrical Circuit Theory",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "MATH 251",
+            "name": "Engineering Mathematics III",
             "credits": 3.0
           },
           {
-            "abbreviation": "CS 2323",
-            "name": "Object Oritented Programming II",
+            "abbreviation": "ECEN 314",
+            "name": "Signals and Systems",
             "credits": 3.0
           },
           {
-            "abbreviation": "CS 4375",
-            "name": "Advanced Topics (Python Data Analytics)",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2323",
-            "name": "Discrete Math Structures",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "TH 1301",
-            "name": "Introduction to Thelogy",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "AC 2301",
-            "name": "Financial Accounting",
+            "abbreviation": "CSCE 222",
+            "name": "Discrete Structures for Computing",
             "credits": 3.0
           }
         ]
@@ -201,26 +155,25 @@
     },
     "experience_items": [
       {
-        "organization": "Electrical Engineering Co-Op",
-        "title": "Research Intern",
+        "organization": "Bridgestone Americas",
+        "title": "Electrical Engineering Co-Op",
         "start_date": "May 2023",
-        "end_date": " July 2023",
+        "end_date": "Present",
         "description": [
-          "Conducted thorough undergraduate research on compiler design and high-level to low-level language translation.",
-          "Developed a lightweight translator by building a parser, lexer, and semantic analyzer module to convert custom code into assembly language for a virtual machine.",
-          "Collaborated closely with mentors to refine development skills and deepen understanding of language design principles and compiler design methodologies."
+          "Developed a Faster R-CNN model for object detection of faults in X-ray tire images.",
+          "Integrated Gocator laser sensors with PLCs for automation of rubber measurement processes.",
+          "Initiated a vision project involving a KUKA robot for barcode reading and organization of materials."
         ]
       },
       {
-        "organization": "NP Engagement",
-        "title": "Web Developer Intern",
+        "organization": "Reveille Robotics",
+        "title": "Founder & President",
         "start_date": "August 2022",
-        "end_date": "November 2022",
+        "end_date": "Present",
         "description": [
-          "Maintained and updated numerous partner websites and online services, ensuring peak performance and relevance with proficiency in HTML, CSS, and JavaScript.",
-          "Integrated custom API scripts, optimized websites to fulfill unique client requirements and enhance user experience.",
-          "Utilized my proficiency in WordPress, crafting visually stunning and highly functional platforms tailored to precise client specifications, ensuring optimal user engagement.",
-          "Drove tangible business growth and significantly boosted client visibility and traffic by orchestrating cross-functional teamwork, applying my technical skills and strategic insights."
+          "Led the development of a Rubik's Cube-solving robot using OpenCV and the Kociemba module.",
+          "Organized and directed projects focused on autonomous systems and AI-robotics integration.",
+          "Mentored club members on electronics, programming, and project management."
         ]
       }
     ]
@@ -236,64 +189,47 @@
       {
         "use_git_api": true,
         "api_github_repo_link": "https://github.com/tamilian/rubiks-cube-solver",
-        "project_name": "Rubik's CUbe Solving Robot",
-        "description": "Application that showcases popular locations for college students specifically for St. Mary's students. collaborated with an 7 person team.",
+        "project_name": "Rubik's Cube Solving Robot",
+        "description": "A robot capable of solving a Rubik's Cube in under 5 seconds using OpenCV and a custom algorithm.",
         "resources_used": [
-          "Microcontoller Programming",
+          "Microcontroller Programming",
           "OpenCV",
           "Electronic Integration",
-          "React.js",
-          "CSS",
-          "MongoDB",
-          "HTML",
-          "Rest API"
+          "Python",
+          "3D Printing",
+          "Step Motors & A4988 Drivers"
         ],
         "start_date": "Sept 2022",
         "end_date": "May 2023",
         "links": [
           {
-            "href": "https://github.com/KevinTrinh1227/Prize-Pick-Predictions",
+            "href": "https://github.com/tamilian/rubiks-cube-solver",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Prize-Pick-Predictions/archive/main.zip",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
           }
         ]
       },
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Hycord-Client",
+        "api_github_repo_link": "https://github.com/tamilian/NeuroDrive",
         "project_name": "NeuroDrive",
-        "description": "Discord.py client that uses Hypixel & PlayerDB APIs to allow users to link and access in-game data. Simply, a versatile Hypixel Discord bot.",
-        "resources_used": ["ROS", "Solidworks", "OpenCV"],
+        "description": "An autonomous RC car project using supervised learning for navigation and obstacle avoidance.",
+        "resources_used": ["NVIDIA Jetson Nano", "ROS", "OpenCV", "LiDAR", "Python"],
         "start_date": "Dec 2022",
         "end_date": "Present",
         "links": [
           {
-            "href": "https://www.hycord.net",
-            "icon": "FiExternalLink",
-            "data_tooltip": "Information Page"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Hycord-Client",
+            "href": "https://github.com/tamilian/NeuroDrive",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Hycord-Client/archive/main.zip",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
           }
         ]
       },
       {
         "use_git_api": true,
-        "api_github_repo_link": "",
+        "api_github_repo_link": "https://github.com/tamilian/ResNet-Model",
         "project_name": "ResNet Deep Learning Architecture",
-        "description": "An e-portfolio built with React.js that utilizes GitHub API. Designed for public use and easy configuration. The second iteration of my website.",
+        "description": "A deep learning model implemented for image classification tasks, leveraging the ResNet architecture.",
         "resources_used": [
           "PyTorch",
           "Python",
@@ -304,7 +240,7 @@
         "end_date": "Present",
         "links": [
           {
-            "href": "https://github.com/KevinTrinh1227/Reactfolio",
+            "href": "https://github.com/tamilian/ResNet-Model",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
           }
@@ -313,11 +249,11 @@
     ]
   },
   "footer": {
-    "line_one": "Built & designed by",
+    "line_one": "Built & designed by Harsh Sundararaman",
     "copyright_line": "All rights reserved."
   },
   "error_page": {
     "title": "Error 404",
-    "description": "The page you are looking for does not exist. Chose one of the following links to continue."
+    "description": "The page you are looking for does not exist. Choose one of the following links to continue."
   }
 }
