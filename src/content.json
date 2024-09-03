@@ -44,7 +44,7 @@
     ],
     "skills_caption": "Some technologies I've worked with:",
     "skills": [
-      "PLC Programming (Rockwell Automation)",
+      "PLC Programming",
       "Machine/Deep Learning",
       "Robotics/Automation",
       "PCB Design",
@@ -97,8 +97,7 @@
         "semester": "Spring",
         "courses": [
           {
-            "abbreviation": "MATH 152",
-            "name": "Engineering Mathematics II",
+            "abbreviation": "MATH 152",            "name": "Engineering Mathematics II",
             "credits": 4.0
           },
           {
@@ -171,7 +170,7 @@
         "start_date": "August 2022",
         "end_date": "Present",
         "description": [
-          "Led the development of a Rubik's Cube-solving robot using OpenCV and the Kociemba module.",
+          "Led the development of a Rubik's Cube robot using OpenCV and the Kociemba module.",
           "Organized and directed projects focused on autonomous systems and AI-robotics integration.",
           "Mentored club members on electronics, programming, and project management."
         ]
@@ -228,8 +227,8 @@
       {
         "use_git_api": true,
         "api_github_repo_link": "https://github.com/tamilian/ResNet-Model",
-        "project_name": "Chess Engine ",
-        "description": "A deep learning model implemented for image classification tasks, leveraging the ResNet architecture.",
+        "project_name": "Chess Engine AI",
+        "description": "A deep learning model implemented ",
         "resources_used": [
           "PyTorch",
           "Python",
