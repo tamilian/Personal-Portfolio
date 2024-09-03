@@ -40,7 +40,7 @@
     "headShotUrl": "../assets/portrait.jpg",
     "bio": [
       "I am currently an undergraduate student at Texas A&M University pursuing a Bachelor of Science in Electrical Engineering with a minor in Computer Science. My work spans across electronics, automation, and robotics, with a focus on autonomous systems and deep learning.",
-      "I have a profound interest in various types of technologies, including machine learning, robotics, and PCB design. I'm a huge enthusiast of practical, hands-on projects. In my free time, I enjoy leading my robotics club, exploring new technologies, playing chess, and working on personal projects that combine my love for electronics and programming."
+      "I have a profound interest in various types of technologies, including hardware design, robotics/automation, and machine/deep learning. I'm a huge enthusiast of practical, hands-on projects. In my free time, I enjoy leading my robotics club, exploring new technologies, playing soccer, and working on personal projects that combine my love for electronics and programming."
     ],
     "skills_caption": "Some technologies I've worked with:",
     "skills": [
@@ -197,10 +197,10 @@
           "Electronic Integration",
           "Python",
           "3D Printing",
-          "Step Motors & A4988 Drivers"
+          "Stepper Motors & A4988 Drivers"
         ],
-        "start_date": "Sept 2022",
-        "end_date": "May 2023",
+        "start_date": "June 2024",
+        "end_date": "September 2024",
         "links": [
           {
             "href": "https://github.com/tamilian/rubiks-cube-solver",
@@ -213,9 +213,9 @@
         "use_git_api": true,
         "api_github_repo_link": "https://github.com/tamilian/NeuroDrive",
         "project_name": "NeuroDrive",
-        "description": "An autonomous RC car project using supervised learning for navigation and obstacle avoidance.",
+        "description": "An autonomous RC car project using SLAM for navigation and obstacle avoidance.",
         "resources_used": ["NVIDIA Jetson Nano", "ROS", "OpenCV", "LiDAR", "Python"],
-        "start_date": "Dec 2022",
+        "start_date": "Sept 2024",
         "end_date": "Present",
         "links": [
           {
@@ -228,7 +228,7 @@
       {
         "use_git_api": true,
         "api_github_repo_link": "https://github.com/tamilian/ResNet-Model",
-        "project_name": "ResNet Deep Learning Architecture",
+        "project_name": "Chess Engine ",
         "description": "A deep learning model implemented for image classification tasks, leveraging the ResNet architecture.",
         "resources_used": [
           "PyTorch",
@@ -236,8 +236,8 @@
           "OpenCV",
           "Pillow"
         ],
-        "start_date": "Sept 2023",
-        "end_date": "Present",
+        "start_date": "June 2024",
+        "end_date": "August 2024",
         "links": [
           {
             "href": "https://github.com/tamilian/ResNet-Model",
